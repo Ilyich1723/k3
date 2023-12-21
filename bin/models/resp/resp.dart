@@ -9,7 +9,7 @@ part 'resp.g.dart';
 class Resp with _$Resp {
 
   factory Resp({
-    @Default([]) List<Posts> posts,
+   @Default([]) List<Posts> posts,
    
   }) = _Resp;
 
